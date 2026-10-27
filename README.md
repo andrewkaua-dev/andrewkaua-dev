@@ -24,11 +24,12 @@ My goal is to grow as a developer, gain practical experience, and create meaning
   <a href="https://www.linkedin.com/in/andrewkaua/">
   <img src="https://img.shields.io/badge/LinkedIn-andrewkaua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</a>
 
   
 </p>
 
-   d
+   
   </a>
   
   
