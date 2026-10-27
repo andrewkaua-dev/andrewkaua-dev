@@ -18,7 +18,7 @@ My goal is to grow as a developer, gain practical experience, and create meaning
   <a href="https://github.com/andrewkaua-dev">
     <img src="https://img.shields.io/badge/GitHub-andrewkaua--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/andrewkaua_">
     <img src="https://img.shields.io/badge/Instagram-@andrewkaua__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/andrewkaua/">
